@@ -1,0 +1,1 @@
+- Find out what is a cache and how is connected with 304 status response
